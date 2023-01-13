@@ -13,6 +13,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import SportsSoccerIcon from '@mui/icons-material/SportsSoccer';
 import ShowChartIcon from '@mui/icons-material/ShowChart';
+import SportsHandballIcon from '@mui/icons-material/SportsHandball';
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
@@ -21,7 +22,7 @@ export const categories = [
   { name: 'Football', icon: <SportsSoccerIcon />, },
   // { name: 'Stocks', icon: <CodeIcon />, },
   { name: 'Stocks', icon: <ShowChartIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Dude Perfect', icon: <SportsHandballIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
