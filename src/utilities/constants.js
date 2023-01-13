@@ -22,7 +22,7 @@ export const categories = [
   { name: 'Football', icon: <SportsSoccerIcon />, },
   // { name: 'Stocks', icon: <CodeIcon />, },
   { name: 'Stocks', icon: <ShowChartIcon />, },
-  { name: 'Dude Perfect', icon: <SportsHandballIcon />, },
+  { name: 'DudPerfct', icon: <SportsHandballIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
